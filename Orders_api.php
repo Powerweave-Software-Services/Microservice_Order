@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "mysql4.gear.host";
+$username = "gitapi";
+$password = "Lo96a!m0?8MM";
 $dbname = "gitapi";
 
 // Create connection
