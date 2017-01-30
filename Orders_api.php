@@ -1,4 +1,5 @@
 <?php
+header("Access-Control-Allow-Origin: *");
 $servername = "mysql4.gear.host";
 $username = "gitapi";
 $password = "Lo96a!m0?8MM";
